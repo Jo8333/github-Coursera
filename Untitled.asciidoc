@@ -1,0 +1,22 @@
+== This notebook will be used to Capstone project
+
+
++*In[10]:*+
+[source, ipython3]
+----
+import pandas as pd
+import numpy as np
+----
+
+
++*In[11]:*+
+[source, ipython3]
+----
+print("Hello Capstone Project Course!")
+----
+
+
++*Out[11]:*+
+----
+Hello Capstone Project Course!
+----
